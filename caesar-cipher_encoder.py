@@ -1,4 +1,4 @@
-# rot13 encoder in python - github.com/
+# rot13 encoder in python - github.com/damnicolussi/caesar-cipher
 
 def rot13(phrase, rot):
    abc = "abcdefghijklmnopqrstuvwxyz"
