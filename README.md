@@ -18,3 +18,9 @@ Enter your phrase: yberz
 Enter the rotation: 13
 lorem
 ```
+
+## Useful Links
+This Repostory: https://github.com/damnicolussi/caesar-cipher/
+License: https://github.com/damnicolussi/caesar-cipher/blob/main/license
+
+*If you find any issues please create a pull request or an issue*
