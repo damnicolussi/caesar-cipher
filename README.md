@@ -3,7 +3,7 @@ Caesar Cipher Code in Python with rotation of the characters decided by the inpu
 
 ## How to Use It
 * Download the files [`caesar-cipher_decoder.py`](https://github.com/damnicolussi/caesar-cipher/blob/main/caesar-cipher_decoder.py) and/or [`caesar-cipher_encoder.py`](https://github.com/damnicolussi/caesar-cipher/blob/main/caesar-cipher_encoder.py)
-* Execute the code and enter the phrase and the rotation of the characters
+* Execute the code and input the phrase and the rotation of the characters
 * The encoded or decoded phrase will return as output
 
 ## Examples
