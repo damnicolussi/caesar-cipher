@@ -1,2 +1,2 @@
 # caesar-cipher
-Caesar Cipher Code in Python (Encoder and Decoder)
+Caesar Cipher Code in Python with decided rotation (Encoder and Decoder)
