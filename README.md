@@ -25,4 +25,4 @@ lorem
 * This Repository: https://github.com/damnicolussi/caesar-cipher/
 * License: https://github.com/damnicolussi/caesar-cipher/blob/main/license
 
-*If you find any issues please create a pull request or report an issue*
+*If you find any issues or do you have any suggestion please create a pull request or report an issue*
