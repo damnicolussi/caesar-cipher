@@ -1,8 +1,10 @@
 # Caesar Cipher Decoder and Encoder
-Caesar Cipher Code in Python with rotation decided by the input (Encoder and Decoder)
+Caesar Cipher Code in Python with rotation of the characters decided by the input (Encoder and Decoder)
 
 ## How to Use It
-After downloading the projects you can execute them and input the phrase and the rotation. As output you'll recieve the phrase encoded/decoded.
+* Download the files `caesar-cipher_decoder.py` and/or `caesar-cipher_encoder.py`
+* Execute the code and enter the phrase and the rotation of the characters
+* The encoded or decoded phrase will return as output
 
 ## Examples
 Encoding:
