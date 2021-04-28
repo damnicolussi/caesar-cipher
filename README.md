@@ -1,4 +1,7 @@
 # Caesar Cipher Decoder and Encoder
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="made_with_python" height="28px"> &nbsp;
+<br>
 Caesar Cipher Code in Python with rotation of the characters decided by the input (Encoder and Decoder)
 
 ## How to Use It
